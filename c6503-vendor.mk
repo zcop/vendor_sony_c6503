@@ -33,7 +33,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/c6503/system/etc/firmware/dsps.b05:system/etc/firmware/dsps.b05 \
     vendor/sony/c6503/system/etc/firmware/dsps.flist:system/etc/firmware/dsps.flist \
     vendor/sony/c6503/system/etc/firmware/dsps.mdt:system/etc/firmware/dsps.mdt \
-    vendor/sony/c6503/system/etc/firmware/dxhdcp2system/etc/firmware/dxhdcp2.b00 \
+    vendor/sony/c6503/system/etc/firmware/dxhdcp2.b00:system/etc/firmware/dxhdcp2.b00 \
     vendor/sony/c6503/system/etc/firmware/dxhdcp2.b01:system/etc/firmware/dxhdcp2.b01 \
     vendor/sony/c6503/system/etc/firmware/dxhdcp2.b02:system/etc/firmware/dxhdcp2.b02 \
     vendor/sony/c6503/system/etc/firmware/dxhdcp2.b03:system/etc/firmware/dxhdcp2.b03 \
